@@ -1,1 +1,0 @@
-print("whis is my first file that has been created via notepad through terminal")
